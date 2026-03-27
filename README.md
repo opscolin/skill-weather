@@ -15,9 +15,9 @@
 
 ```bash
 cd ~/.claude/skills
-git clone https://github.com/opscolin/cla-skill-weather.git
-mv cla-skill-weather/weather .
-rm -rf cla-skill-weather
+git clone https://github.com/opscolin/skill-weather.git
+mv skill-weather/weather .
+rm -rf skill-weather
 ```
 
 ### 方式二：下载 .skill 文件
